@@ -1,0 +1,7 @@
+G:\Works\C#\RemoteHostConnection\RemoteHostConnection\bin\Debug\RemoteHostConnection.exe.config
+G:\Works\C#\RemoteHostConnection\RemoteHostConnection\bin\Debug\RemoteHostConnection.exe
+G:\Works\C#\RemoteHostConnection\RemoteHostConnection\bin\Debug\RemoteHostConnection.pdb
+G:\Works\C#\RemoteHostConnection\RemoteHostConnection\obj\Debug\RemoteHostConnection.csproj.AssemblyReference.cache
+G:\Works\C#\RemoteHostConnection\RemoteHostConnection\obj\Debug\RemoteHostConnection.csproj.CoreCompileInputs.cache
+G:\Works\C#\RemoteHostConnection\RemoteHostConnection\obj\Debug\RemoteHostConnection.exe
+G:\Works\C#\RemoteHostConnection\RemoteHostConnection\obj\Debug\RemoteHostConnection.pdb
